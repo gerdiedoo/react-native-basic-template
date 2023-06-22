@@ -7,7 +7,9 @@ import { SafeAreaView } from "react-native-safe-area-context";
 export default function Map() {
     return (
         <SafeAreaView style={styles.container}>
-            
+            <Text>
+                test
+            </Text>
         </SafeAreaView>
     );
 }
